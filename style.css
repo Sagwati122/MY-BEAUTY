@@ -1,5 +1,5 @@
 body{
-    background-color: pink;
+    background-color: rgb(189, 236, 19);
 }
 /* style.css – Homepage (index.html) */
 
@@ -12,7 +12,7 @@ body{
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #fce4ec, #f3e5f5);
+    background: linear-gradient(135deg, #c90d4cb7, #df0b51);
     color: #4a148c;
     min-height: 100vh;
     line-height: 1.6;
@@ -20,8 +20,8 @@ body {
 
 /* Header */
 header {
-    background: linear-gradient(90deg, #e91e63, #9c27b0);
-    color: white;
+    background: linear-gradient(90deg, #e91e63, #700c81);
+    color: rgb(221, 12, 110);
     padding: 2rem 1rem 1rem;
     text-align: center;
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
@@ -78,7 +78,7 @@ nav a {
 }
 
 nav a:hover {
-    background: white;
+    background: pink;
     color: #9c27b0;
     border-color: #e91e63;
     transform: translateY(-2px);
@@ -176,7 +176,7 @@ nav a {
 }
 
 nav a:hover {
-    background: white;
+    background: rgb(219, 20, 20);
     color: #9c27b0;
     border-color: #e91e63;
     transform: translateY(-2px);
