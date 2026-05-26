@@ -427,3 +427,108 @@ img[src="images/woman-face-13.jpg"]:hover {
     transform: scale(1.02);
     box-shadow: 0 12px 40px rgba(233, 30, 98, 0.952);
 }
+/* Logo image styling */
+header img {
+    width: 100px;               /* matches inline width */
+    height: auto;               /* maintain aspect ratio */
+    display: block;
+    margin: 0 auto 1rem;        /* center below nav or in header */
+    border-radius: 50%;         /* circular logo */
+    box-shadow: 0 4px 10px rgba(212, 5, 150, 0.897);
+    transition: transform 0.3s ease;
+}
+
+header img:hover {
+    transform: scale(1.05);     /* subtle hover effect */
+}
+
+/* Responsive: shrink on small screens */
+@media (max-width: 600px) {
+    header img {
+        width: 70px;
+    }
+}
+/* Products page styles */
+
+/* Main content area */
+main {
+    max-width: 1100px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: white;
+    border-radius: 16px;
+    box-shadow: 0 8px 30px rgba(156, 39, 176, 0.15);
+}
+
+main h2 {
+    font-size: 2rem;
+    color: #9c27b0;
+    text-align: center;
+    margin-bottom: 1rem;
+    border-bottom: 3px solid #e91e63;
+    padding-bottom: 0.5rem;
+}
+
+main p {
+    font-size: 1.1rem;
+    color: #4a148c;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-weight: 600;
+}
+
+/* Product images grid */
+main img {
+    width: 500px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1rem auto;
+    border-radius: 12px;
+    box-shadow: 0 6px 20px rgba(156, 39, 176, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    object-fit: cover;
+}
+
+main img:hover {
+    transform: scale(1.02);
+    box-shadow: 0 10px 30px rgba(233, 30, 99, 0.4);
+}
+
+/* Disclaimer text */
+h6 {
+    font-size: 0.9rem;
+    color: #e91e63;
+    text-align: center;
+    max-width: 800px;
+    margin: 1.5rem auto;
+    padding: 1rem;
+    background: #fff0f3;
+    border-radius: 10px;
+    border: 1px solid #e91e63;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    main {
+        margin: 1rem;
+        padding: 1rem;
+    }
+    
+    main h2 {
+        font-size: 1.5rem;
+    }
+    
+    main img {
+        width: 100%;
+        margin: 0.8rem auto;
+    }
+    
+    h6 {
+        font-size: 0.8rem;
+        margin: 1rem;
+        padding: 0.8rem;
+    }
+}
