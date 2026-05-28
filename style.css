@@ -535,3 +535,13 @@ h6 {
 body{
     background-color: #df0b51;
 }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      margin-right: 10px;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 5px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
