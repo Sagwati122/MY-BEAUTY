@@ -10,12 +10,12 @@ MY BEAUTY, YOUR BEAUTY is a customer-focused skincare company that provides high
 ## ✨ Features
 
 - **Home Page** - Welcome message and company introduction
-- **About Us** - Company mission, values, and legitimacy information
+- **About Us** - Company mission, values, and legitimacy informations
 - **Products** - Display of beauty and skincare products
 - **Services** - Working hours and service availability
-- **Contact** - Email, phone, and social media contact information
+- **Contact** - Email, phone, and social media contact informations
 - **Enquiry Form** - Customer enquiry system for:
-  - Product information
+  - Product informations
   - Service requests
   - Partnership opportunities
   - Volunteer inquiries
