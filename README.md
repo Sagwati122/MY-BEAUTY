@@ -39,3 +39,12 @@ MY BEAUTY, YOUR BEAUTY is a customer-focused skincare company that provides high
 > ⚠️ **Note:** Products are non-returnable. Please know your skin type before ordering.
 
 ## 📁 Project Structure
+MY BEAUTY,YOUR BEAUTY
+WE Care For Yopu Coz You Care For Us
+
+## market research 
+the target adience of company are people who are bettling the fact that cant take of thier skins and for people who love the skins a lot and and for people who have miney to buy these product are more than welcome to buy them 
+
+the packaging of this products are packed in gift boxes and they neatinly packed according to their scecified colours 
+
+the branding of the company is legal and well set
