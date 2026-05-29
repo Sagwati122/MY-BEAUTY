@@ -1,8 +1,7 @@
 # MY-BEAUTY
 # MY BEAUTY, YOUR BEAUTY 🌸
-
-A beauty and skincare company website dedicated to helping people love and care for their skin.
-
+MY BEAUTY, YOUR BEAUTY is company that deals with make up kit for people who love taking care of thier skins.And people love their skins are recommended to use these products
+so that skins stay redient at all times
 ## 📋 About The Project
 
 MY BEAUTY, YOUR BEAUTY is a customer-focused skincare company that provides high-quality beauty products and services. Our website serves as a digital storefront where customers can learn about our offerings, contact us, and submit enquiries.
@@ -15,10 +14,9 @@ MY BEAUTY, YOUR BEAUTY is a customer-focused skincare company that provides high
 - **Services** - Working hours and service availability
 - **Contact** - Email, phone, and social media contact informations
 - **Enquiry Form** - Customer enquiry system for:
-  - Product informations
-  - Service requests
-  - Partnership opportunities
-  - Volunteer inquiries
+  - Personal information 
+  - appointment information
+
 
 ## 🕐 Business Hours
 
