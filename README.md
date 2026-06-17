@@ -4,7 +4,7 @@ MY BEAUTY, YOUR BEAUTY is company that deals with make up kit for people who lov
 so that skins stay redient at all times
 ## 📋 About The Project
 
-MY BEAUTY, YOUR BEAUTY is a customer-focused skincare company that provides high-quality beauty products and services. Our website serves as a digital storefront where customers can learn about our offerings, contact us, and submit enquiries.
+MY BEAUTY, YOUR BEAUTY is company which advertises its make up producs for use. These products are adviced that people who have skincare problems first conslut on the product should be used so that their skins can floushring at all times. Skin is something which people vaule the most and don't want to look like peoplewho are unwanted because of thier skin.People who love makeup and skincare are often driven by a blend of skin-care, artistic expression, and passion for ingredient science.peole love radiant skins 
 
 ## ✨ Features
 
@@ -43,9 +43,8 @@ MY BEAUTY,YOUR BEAUTY
 WE Care For Yopu Coz You Care For Us
 
 ## market research 
-the target adience of company are people who are bettling the fact that cant take of thier skins and for people who love the skins a lot and and for people who have miney to buy these product are more than welcome to buy them 
+The target audience are people who adore make-up. and makeup is highly enaged, digitally native community that prioritizes skin- first  formulations, radical transparcy in ingredients , and multi- purpose convenience.
+AND for people who think that they can be able to afford make-up .
 
-the packaging of this products are packed in gift boxes and they neatinly packed according to their scecified colours 
 
-the branding of the company is legal and well set
   
