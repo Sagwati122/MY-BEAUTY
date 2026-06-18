@@ -46,6 +46,9 @@ WE Care For Yopu Coz You Care For Us
 The target audience are people who adore make-up. and makeup is highly enaged, digitally native community that prioritizes skin- first  formulations, radical transparcy in ingredients , and multi- purpose convenience.
 AND for people who think that they can be able to afford make-up.
 
+
+
+
 <img width="1200" height="801" alt="image" src="https://github.com/user-attachments/assets/b3c3f3c9-e436-409d-b668-67a4b28cc861" />
 <img width="2500" height="2500" alt="pngtree-geset-of-luxury-beauty-cosmetic-makeup-bdifferent-png-image_16480004" src="https://github.com/user-attachments/assets/8fd7fae3-0bfd-4fa5-93e2-0d7faee4edbd" />
 <img width="3484" height="3160" alt="woman-face-13" src="https://github.com/user-attachments/assets/633239ae-cb66-4690-99f4-47a90e3c423d" />
@@ -55,6 +58,8 @@ AND for people who think that they can be able to afford make-up.
 <img width="1024" height="680" alt="f7a666183ecba0bc8e85a22cc46e0fc7" src="https://github.com/user-attachments/assets/e9596a60-4717-4234-abf2-ea5a74ce17d2" />
 
 
+
+<img width="1200" height="1200" alt="pngtree-beauty-logo-png-image_6954323" src="https://github.com/user-attachments/assets/eaade282-0a44-419d-a219-e9f44a792c60" />
 
 
 
