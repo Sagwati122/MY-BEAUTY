@@ -45,4 +45,9 @@ WE Care For Yopu Coz You Care For Us
 ## market research 
 The target audience are people who adore make-up. and makeup is highly enaged, digitally native community that prioritizes skin- first  formulations, radical transparcy in ingredients , and multi- purpose convenience.
 AND for people who think that they can be able to afford make-up.
-R (1).jpg
+
+<img width="1200" height="801" alt="image" src="https://github.com/user-attachments/assets/b3c3f3c9-e436-409d-b668-67a4b28cc861" />
+
+
+
+
